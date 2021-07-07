@@ -1,0 +1,6 @@
+Bài tập sau khi học xong: 
+Bài 1: Viết chương trình giải phương trình bậc 2 với a khác 0
+Bài 2: Viết game đoán số với 3 mức độ dễ, tb, khó
+Dễ: Người chơi nhập vào 1 số bất kì, máy tính lấy ngẫu nhiên trong 2 số 1 và 2. Nếu người chơi đoán đúng số máy tính sẽ ra người chơi thắng.
+TB: Tương tự nhưng máy tính lấy ngẫu nhiên từ 1 đến 10
+Khó: Tương tự nhưng máy tính lấy ngẫu nhiên từ 1 đến 100
